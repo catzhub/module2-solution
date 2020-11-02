@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages CATZ
 
 You can use the [editor on GitHub](https://github.com/catzhub/module2-solution/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
